@@ -1,3 +1,7 @@
+### Version Unreleased - 2022-01-23
+* Support for Rails 7
+* Handle ActiveModel::Errors#key deprecation
+
 ### 3.0.0 - 2019-11-06
 * Deprecate the support of Rails 4 (although it might still work)
 * Fix warnings in Rails 6
